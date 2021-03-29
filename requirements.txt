@@ -1,7 +1,7 @@
 numpy==1.18.2
 pandas==1.0.3
 Pillow==7.0.0
-Pygments==2.6.1
+Pygments==2.7.4
 PyQt5==5.14.1
 requests==2.23.0
 scikit-learn==0.22.2.post1
